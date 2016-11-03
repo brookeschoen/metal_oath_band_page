@@ -127,7 +127,7 @@
         
         <br><p> Stay tuned to our website for information on future albums or follow us on Twitter - @metaloathband</p>
     
-    <?php include '../resources/sfooter.php'; ?>
+    <?php include '../resources/footer.php'; ?>
     
 </body>
 </html>
